@@ -1,0 +1,32 @@
+﻿<Window x:Class="DataEditor.Views.CreateReplacementModifierView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataEditor.Views"
+        mc:Ignorable="d"
+           xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+         Title="CreateReplacementModifierView" Height="580" Width="870">
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition/>
+
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="2"  Grid.RowSpan="2"/>
+        <TextBlock Style="{StaticResource MaterialDesignBody2TextBlock}" Grid.Column="2" TextWrapping="Wrap" x:Name="TextBlockDescription" Grid.RowSpan="6" HorizontalAlignment="Left" Width="300" ><Run Text="Замена элементовв строке с комбинациями."/><LineBreak/><Run Text="1. ReplacementOneElements - для замены одного элемента."/><LineBreak/><Run Text="First Element Line - символ для замены"/><LineBreak/><Run Text="First Element Сhange - символ на который надо заменить."/><LineBreak/><Run Text="Пример: &quot;lelele?lilili. Замена &quot;i&quot; на &quot;1&quot;"/><LineBreak/><Run Text="2. ReplacementTwoElements - для замены двух элементов."/><LineBreak/><Run Text="Second Element Line - второй символ для замены"/><LineBreak/><Run Text="Second Element Сhange - второй символ на который надо заменить."/><LineBreak/><Run Text="Пример: &quot;lelele?lilili. Замена &quot;i&quot; на &quot;1&quot; и &quot;e&quot; на &quot;3&quot;"/><LineBreak/></TextBlock>
+        <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Часть для замены" x:Name="TextboxFirstElement" Height="45" Grid.Row="0" Width="200"/>
+        <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Замена" x:Name="TextboxFirstElementСhange" Height="45" Grid.Row="1" Width="200" />
+        <ListBox Name="ListViewReplacements" Grid.RowSpan="222" Grid.Column="1"  HorizontalContentAlignment="Center" Background="{DynamicResource MaterialDesignLightBackground}"/>
+        <Button Name= "AddReplacementButton" Content="Add replacement"  Width="200"  Grid.Row="2" Click="AddReplacementButton_Click" />
+        <Button Name= "CreateButton" Content="Create" Click="CreateButton_Click" Width="200"  Grid.Row="5" />
+    </Grid>
+</Window>

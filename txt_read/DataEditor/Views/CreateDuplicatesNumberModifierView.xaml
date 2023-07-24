@@ -1,0 +1,45 @@
+﻿<Window x:Class="DataEditor.Views.CreateDuplicatesNumberModifierView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataEditor.Views"
+        mc:Ignorable="d"
+           xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        ResizeMode="NoResize" Title="CreateDuplicatesNumberModifierView" Height="300" Width="500" Cursor="">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+
+        <ComboBox Height="30" Width="170" Name="ComboBoxRules" VerticalAlignment="Bottom"/>
+        <ListBox Name="ListViewRules" Grid.Row="1"  Grid.RowSpan="2" HorizontalContentAlignment="Center"  Grid.ColumnSpan="2" />
+        <TextBlock Style="{StaticResource MaterialDesignBody2TextBlock}" TextWrapping="Wrap" Name="TextBlockDescription" Grid.Column="1" Grid.RowSpan="2">
+            Добавление цифр в окончаниt. Пример: Tcsdb472
+            <LineBreak/>
+            Результат:
+            <LineBreak/>
+            1.1 WithSave 
+            <LineBreak/>
+            1) Tcsdb4472
+            <LineBreak/>
+            2) Tcsdb44772
+            <LineBreak/>
+            3) Tcsdb447722
+            <LineBreak/>
+            1.2 WithSave 
+            <LineBreak/>
+            1) Tcsdb4472
+            <LineBreak/>
+            2) Tcsdb4772
+            <LineBreak/>
+            3) Tcsdb4722
+        </TextBlock>
+        <Button  Height="30" Width="200" Name= "CreateButton" Grid.Row="2" Content="Create"  Click="CreateButton_Click"/>
+    </Grid>
+</Window>

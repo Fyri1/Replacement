@@ -1,0 +1,60 @@
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.deps.json
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.pdb
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.AssemblyReference.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfoInputs.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfo.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\refint\txt_read.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.pdb
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\ref\txt_read.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.deps.json
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.pdb
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.AssemblyReference.cache
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfoInputs.cache
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfo.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\refint\txt_read.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.pdb
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\ref\txt_read.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.deps.json
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.pdb
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.AssemblyReference.cache
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfoInputs.cache
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfo.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\refint\txt_read.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.pdb
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\ref\txt_read.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.deps.json
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.pdb
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.AssemblyReference.cache
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfoInputs.cache
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfo.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\refint\txt_read.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.pdb
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\ref\txt_read.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.deps.json
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\bin\Debug\net7.0\txt_read.pdb
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.AssemblyReference.cache
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfoInputs.cache
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.AssemblyInfo.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\refint\txt_read.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\txt_read.pdb
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\txt_read\obj\Debug\net7.0\ref\txt_read.dll

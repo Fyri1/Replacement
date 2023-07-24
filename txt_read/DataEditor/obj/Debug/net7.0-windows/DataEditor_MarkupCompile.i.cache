@@ -1,0 +1,20 @@
+﻿DataEditor
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\
+DataEditor
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\App.xaml
+7898069092
+
+13-720800693
+204-1770652330
+MainWindow.xaml;Views\CreateCheckNumModifierView.xaml;Views\CreateDuplicateAllModifierView.xaml;Views\CreateDuplicatesNumberModifierView.xaml;Views\CreateMultiEndModifierView.xaml;Views\CreateOneByOneModifierView.xaml;Views\CreateReplacementModifierView.xaml;
+
+True
+

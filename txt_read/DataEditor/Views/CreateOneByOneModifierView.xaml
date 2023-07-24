@@ -1,0 +1,55 @@
+﻿<Window x:Class="DataEditor.Views.CreateOneByOneModifierView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataEditor.Views"
+        mc:Ignorable="d"
+           xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        ResizeMode="NoResize" Title="CreateOneByOneModifierView" Height="400" Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="247"/>
+        </Grid.ColumnDefinitions>
+
+
+        <TextBlock Style="{StaticResource MaterialDesignBody2TextBlock}" TextWrapping="Wrap" Name="TextBlockDescription" Grid.RowSpan="2" HorizontalAlignment="Center" Width="220" Grid.Column="1">
+            Добавление любого символа к строке по порядку. Пример: tondee2429
+            <LineBreak/>
+            Результат:
+            <LineBreak/>
+            1.1 AddInOneSave
+            <LineBreak/>
+            1) t1ondee2429 
+            <LineBreak/>
+            2) to1ndee2429
+            <LineBreak/>
+            3) ton1dee2429 И т.д.
+            <LineBreak/>
+            1.2 AddInOneSave
+            <LineBreak/>
+            1) t1ondee2429 
+            <LineBreak/>
+            2) t1o1ndee2429
+            <LineBreak/>
+            2) t1o1n1dee2429 И т.д.
+            <LineBreak/>
+             1.2 AddInOneSave -  символа через два
+            <LineBreak/>
+            1) t1ondee2429 
+            <LineBreak/>
+            2) t1on1dee2429
+            <LineBreak/>
+            2) t1o1nde1e2429 И т.д.
+        </TextBlock>
+        <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Строка для добавления" x:Name="TextboxAddLine" Width="194" Height="45" Grid.Row="0"/>
+        <ComboBox Height="30" Width="200" x:Name="ComboBoxRules" VerticalAlignment="Top" Grid.Row="1"/>
+        <Button Name= "CreateButton" Content="Create" Width="200" Click="CreateButton_Click" Grid.Row="2"/>
+    </Grid>
+</Window>

@@ -1,0 +1,53 @@
+﻿<Window x:Class="DataEditor.Views.CreateMultiEndModifierView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataEditor.Views"
+        mc:Ignorable="d"
+           xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+         ResizeMode="NoResize" Title="CreateMultiEndModifierView" Height="380" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="267*"/>
+            <ColumnDefinition Width="262*"/>
+
+        </Grid.ColumnDefinitions>
+        <StackPanel Orientation="Vertical" Grid.ColumnSpan="2" />
+
+        <TextBlock Style="{StaticResource MaterialDesignBody2TextBlock}"  Grid.Column="1" TextWrapping="Wrap" Name="TextBlockDescription" Grid.RowSpan="6" HorizontalAlignment="Left" Width="313">
+            Добавление по правилам.
+            <LineBreak/>
+            1. Если слово заканчивается на "ss","x","z","ch","sh","o" добавим окончание "es","Es","ES"
+            <LineBreak/>
+            2. Если слово заканчивается на "e"  добавим окончание "r", "R","s","S".
+            <LineBreak/>
+            3. Если будет другая буква, то -  "s","S","ed","Ed","ED".
+            Пример: Church123
+            <LineBreak/>
+            Результат:
+            <LineBreak/>
+            Church123
+            <LineBreak/>
+            Churchs123
+            <LineBreak/>
+            ChurchS123
+            <LineBreak/>
+            Churches123
+            <LineBreak/>
+            ChurchEs123
+            <LineBreak/>
+            ChurchES123
+        </TextBlock>
+        <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Окончание" x:Name="TextboxAddLine" Height="45" Width="200" Grid.Row="0" TextChanged="TextboxAddLine_TextChanged"/>
+        <TextBox Style="{StaticResource MaterialDesignFloatingHintTextBox}" materialDesign:HintAssist.Hint="Замена Окончания" x:Name="TextboxAddLine_Copy" Height="45" Width="200" Grid.Row="1" TextChanged="TextboxAddLine_Copy_TextChanged"/>
+
+        <Button Name= "CreateButton" Height="30" Width="200" Content="Create" Click="CreateButton_Click" Grid.Row="2"/>
+
+    </Grid>
+</Window>

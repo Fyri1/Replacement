@@ -1,0 +1,12 @@
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\bin\Debug\net7.0-windows\txt_read.deps.json
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\bin\Debug\net7.0-windows\txt_read.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\bin\Debug\net7.0-windows\txt_read.pdb
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\txt_read.csproj.AssemblyReference.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\txt_read.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\txt_read.AssemblyInfoInputs.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\txt_read.AssemblyInfo.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\txt_read.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\txt_read.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\refint\txt_read.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\txt_read.pdb
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\txt_read\obj\Debug\net7.0-windows\ref\txt_read.dll

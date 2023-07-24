@@ -1,0 +1,29 @@
+{
+
+	"CheckNumModifier": {
+		"AddingLine": "add"
+	},
+	"DuplicatesAllModifier": {
+		"DuplicatesAllCombinationType": 1
+	},
+	"DuplicatesNumberModifier": {
+		"DuplicatesNumberCombinationType": 1
+	},
+	
+	"OneByOneModifier": {
+		"DuplicationType": 0,
+		"AddingLine": "add"
+	},
+	"ReplacementModifier": {
+		"DuplicationType": 0,
+		"FirstElementInLine": "add",
+		"FirstElementСhange": "add",
+		"SecondElementInLine": "add",
+		"SecondElementСhange": "add"
+	},
+	"TwoNumbersWordsModifier": {},
+	"ChangingEndModifier":{
+			"Path":"Data/changing_end.txt"
+		
+	}
+}

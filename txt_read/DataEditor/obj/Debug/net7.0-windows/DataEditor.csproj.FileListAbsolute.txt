@@ -1,0 +1,263 @@
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.exe
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.deps.json
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.runtimeconfig.json
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.AssemblyReference.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.lref
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.g.resources
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfoInputs.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfo.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\refint\DataEditor.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.genruntimeconfig.cache
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\ref\DataEditor.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.pdb
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CopyComplete
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.g.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.baml
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.baml
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignExtensions.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\de\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru-RU\MaterialDesignExtensions.resources.dll
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.exe
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.deps.json
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.runtimeconfig.json
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignExtensions.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\de\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru-RU\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.pdb
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.AssemblyReference.cache
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.g.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.cache
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.lref
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.baml
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.baml
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.g.resources
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfoInputs.cache
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfo.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CopyComplete
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\refint\DataEditor.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.genruntimeconfig.cache
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\ref\DataEditor.dll
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.g.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.baml
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.g.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.baml
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.g.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.g.cs
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.baml
+C:\Users\maxdz\Desktop\1\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.baml
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.exe
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.deps.json
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.runtimeconfig.json
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignExtensions.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\de\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru-RU\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.pdb
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.AssemblyReference.cache
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.g.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.g.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.g.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.g.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.g.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.cache
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.lref
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.baml
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.baml
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.baml
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.baml
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.baml
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.baml
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.g.resources
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfoInputs.cache
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfo.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CopyComplete
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\refint\DataEditor.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.genruntimeconfig.cache
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\ref\DataEditor.dll
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateReplacementModifierView.g.cs
+C:\Users\maxdz\Desktop\FINAL\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateReplacementModifierView.baml
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.g.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.g.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.g.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.g.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateReplacementModifierView.g.cs
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.baml
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.baml
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.baml
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.baml
+C:\Users\Ilya\OneDrive\Documents\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateReplacementModifierView.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.exe
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.deps.json
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.runtimeconfig.json
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignExtensions.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\de\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru-RU\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.pdb
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.AssemblyReference.cache
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.g.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.g.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.g.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.g.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.g.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateReplacementModifierView.g.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.cache
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.lref
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateReplacementModifierView.baml
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.g.resources
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfoInputs.cache
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfo.cs
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CopyComplete
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\refint\DataEditor.dll
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.genruntimeconfig.cache
+C:\Users\maxdz\Desktop\BESAK PETUH\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\ref\DataEditor.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.exe
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.deps.json
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.runtimeconfig.json
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignExtensions.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\cs\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\de\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\fr\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\pt\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\ru-RU\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\bin\Debug\net7.0-windows\txt_read.pdb
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.AssemblyReference.cache
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.g.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.g.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.g.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.g.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.g.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateReplacementModifierView.g.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.cache
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor_MarkupCompile.lref
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\App.baml
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateCheckNumModifierView.baml
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicateAllModifierView.baml
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateDuplicatesNumberModifierView.baml
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateMultiEndModifierView.baml
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateOneByOneModifierView.baml
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\Views\CreateReplacementModifierView.baml
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.g.resources
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfoInputs.cache
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.AssemblyInfo.cs
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CoreCompileInputs.cache
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.csproj.CopyComplete
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\refint\DataEditor.dll
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.pdb
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\DataEditor.genruntimeconfig.cache
+C:\Users\maxdz\Desktop\Console ver\First_txt_program\txt_read\DataEditor\obj\Debug\net7.0-windows\ref\DataEditor.dll
